@@ -9,13 +9,13 @@ cd catkin_ws
 catkin_make
 ```
 To run - 
-Terminal 1 
+open a terminal
 ```
 cd catkin_ws
 source devel/setup.bash
 roslaunch my_robot world.launch
 ```
-Terminal 2 
+open another terminal
 ```
 cd catkin_ws
 source devel/setup.bash
